@@ -52,6 +52,10 @@
 /* https://piccalil.li/blog/a-modern-css-reset/ */
 
 /* Box sizing */
+html {
+    zoom: 0.8;
+}
+
 *,
 *::before,
 *::after {
